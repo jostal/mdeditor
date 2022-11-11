@@ -1,0 +1,9 @@
+.container-ui {
+    display: flex;
+}
+
+.container-editor {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

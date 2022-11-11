@@ -1,0 +1,11 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    line-height: 1.4em;
+    background: #282828;
+    color: white;
+    min-width: 230px;
+}

@@ -1,0 +1,11 @@
+[package]
+name="mdeditor"
+version="0.0.1"
+authors=["Joseph Talon"]
+
+[dependencies]
+dioxus = { version="0.2.4", features=["desktop", "fermi"] }
+dioxus-html-macro = "0.2.0"
+dirs = "4.0.0"
+native-dialog = "0.6.3"
+comrak = "0.14"
